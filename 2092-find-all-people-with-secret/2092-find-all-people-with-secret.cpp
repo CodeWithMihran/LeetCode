@@ -5,7 +5,6 @@ private:
 
 public:
     UnionFind(int n) {
-        // Initialize parent and rank arrays
         parent.resize(n);
         rank.resize(n);
         for (int i = 0; i < n; ++i) {
@@ -14,7 +13,6 @@ public:
     }
 
     int find(int x) {
-        // Find parent of node x. Use Path Compression
         if (parent[x] != x) {
             parent[x] = find(parent[x]);
         }
@@ -22,11 +20,9 @@ public:
     }
 
     void unite(int x, int y) {
-        // Unite two nodes x and y, if they are not already united
         int px = find(x);
         int py = find(y);
         if (px != py) {
-            // Union by Rank Heuristic
             if (rank[px] > rank[py]) {
                 parent[py] = px;
             } else if (rank[px] < rank[py]) {
@@ -39,17 +35,13 @@ public:
     }
 
     bool connected(int x, int y) {
-        // Check if two nodes x and y are connected or not
         return find(x) == find(y);
     }
-
     void reset(int x) {
-        // Reset the initial properties of node x
         parent[x] = x;
         rank[x] = 0;
     }
 };
-
 class Solution {
 public:
     vector<int> findAllPeople(int n, vector<vector<int>>& meetings,int firstPerson) {
