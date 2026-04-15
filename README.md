@@ -44,6 +44,7 @@ Date of Opening - 28th July 2025 (Before my college started)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/CodeWithMihran/LeetCode/tree/main/0079-word-search/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/CodeWithMihran/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/CodeWithMihran/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/CodeWithMihran/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -196,6 +197,7 @@ Date of Opening - 28th July 2025 (Before my college started)
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/CodeWithMihran/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
