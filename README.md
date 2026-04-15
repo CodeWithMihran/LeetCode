@@ -11,6 +11,7 @@ Date of Opening - 28th July 2025 (Before my college started)
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/CodeWithMihran/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/CodeWithMihran/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/CodeWithMihran/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/CodeWithMihran/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -42,6 +43,7 @@ Date of Opening - 28th July 2025 (Before my college started)
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/CodeWithMihran/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/CodeWithMihran/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/CodeWithMihran/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/CodeWithMihran/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -72,6 +74,7 @@ Date of Opening - 28th July 2025 (Before my college started)
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/CodeWithMihran/LeetCode/tree/main/0079-word-search/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/CodeWithMihran/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/CodeWithMihran/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/CodeWithMihran/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -115,6 +118,7 @@ Date of Opening - 28th July 2025 (Before my college started)
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/CodeWithMihran/LeetCode/tree/main/0079-word-search/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/CodeWithMihran/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -211,4 +215,8 @@ Date of Opening - 28th July 2025 (Before my college started)
 | ------- | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/CodeWithMihran/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/CodeWithMihran/LeetCode/tree/main/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->
