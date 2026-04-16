@@ -204,6 +204,7 @@ Date of Opening - 28th July 2025 (Before my college started)
 | ------- | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0086-partition-list](https://github.com/CodeWithMihran/LeetCode/tree/main/0086-partition-list/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/CodeWithMihran/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -231,4 +232,5 @@ Date of Opening - 28th July 2025 (Before my college started)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0086-partition-list](https://github.com/CodeWithMihran/LeetCode/tree/main/0086-partition-list/) | Medium |
 <!---LeetCode Topics End-->
