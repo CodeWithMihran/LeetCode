@@ -127,6 +127,7 @@ Date of Opening - 28th July 2025 (Before my college started)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/CodeWithMihran/LeetCode/tree/main/0079-word-search/) | Medium |
+| [0089-gray-code](https://github.com/CodeWithMihran/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/CodeWithMihran/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -142,6 +143,7 @@ Date of Opening - 28th July 2025 (Before my college started)
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0089-gray-code](https://github.com/CodeWithMihran/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/CodeWithMihran/LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -175,6 +177,7 @@ Date of Opening - 28th July 2025 (Before my college started)
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0089-gray-code](https://github.com/CodeWithMihran/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [1622-fancy-sequence](https://github.com/CodeWithMihran/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/CodeWithMihran/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/CodeWithMihran/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
