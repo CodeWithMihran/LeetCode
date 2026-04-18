@@ -102,6 +102,7 @@ Date of Opening - 28th July 2025 (Before my college started)
 | ------- | ------- |
 | [0087-scramble-string](https://github.com/CodeWithMihran/LeetCode/tree/main/0087-scramble-string/) | Hard |
 | [0091-decode-ways](https://github.com/CodeWithMihran/LeetCode/tree/main/0091-decode-ways/) | Medium |
+| [0095-unique-binary-search-trees-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/CodeWithMihran/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/CodeWithMihran/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/CodeWithMihran/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -132,6 +133,7 @@ Date of Opening - 28th July 2025 (Before my college started)
 | [0079-word-search](https://github.com/CodeWithMihran/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0089-gray-code](https://github.com/CodeWithMihran/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/CodeWithMihran/LeetCode/tree/main/0093-restore-ip-addresses/) | Medium |
+| [0095-unique-binary-search-trees-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/CodeWithMihran/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -247,4 +249,16 @@ Date of Opening - 28th July 2025 (Before my college started)
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/CodeWithMihran/LeetCode/tree/main/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0092-reverse-linked-list-ii/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 <!---LeetCode Topics End-->
