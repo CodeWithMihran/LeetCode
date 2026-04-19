@@ -54,6 +54,7 @@ Date of Opening - 28th July 2025 (Before my college started)
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/CodeWithMihran/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/CodeWithMihran/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/CodeWithMihran/LeetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/CodeWithMihran/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/CodeWithMihran/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/CodeWithMihran/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/CodeWithMihran/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -155,6 +156,7 @@ Date of Opening - 28th July 2025 (Before my college started)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/CodeWithMihran/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/CodeWithMihran/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/CodeWithMihran/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/CodeWithMihran/LeetCode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -220,6 +222,7 @@ Date of Opening - 28th July 2025 (Before my college started)
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/CodeWithMihran/LeetCode/tree/main/0086-partition-list/) | Medium |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/CodeWithMihran/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/CodeWithMihran/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
