@@ -1,10 +1,15 @@
 # LeetCode
-<br>
-This repo is seperatly for solving the Leetcode questions.
-<br>
-Author - Md Mihran Sohail
-<br>
-Date of Opening - 28th July 2025 (Before my college started)
+This repository contains my solutions to problems from LeetCode, organized by topic and difficulty.<br>
+I use this repo to strengthen my Data Structures & Algorithms (DSA) skills and improve problem-solving consistency.
+
+#Started on : 28 July 2025 (before beginning my college journey)
+#Author: Md Mihran Sohail
+
+# Goals :
+Build strong problem-solving skills
+Master core DSA concepts
+Prepare for coding interviews
+Maintain consistency in daily practice
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
