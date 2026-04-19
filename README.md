@@ -50,6 +50,7 @@ Date of Opening - 28th July 2025 (Before my college started)
 | [0079-word-search](https://github.com/CodeWithMihran/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CodeWithMihran/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/CodeWithMihran/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/CodeWithMihran/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/CodeWithMihran/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -123,6 +124,7 @@ Date of Opening - 28th July 2025 (Before my college started)
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CodeWithMihran/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/CodeWithMihran/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/CodeWithMihran/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -244,6 +246,7 @@ Date of Opening - 28th July 2025 (Before my college started)
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CodeWithMihran/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/CodeWithMihran/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 ## Depth-First Search
@@ -262,6 +265,7 @@ Date of Opening - 28th July 2025 (Before my college started)
 | [0095-unique-binary-search-trees-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/CodeWithMihran/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/CodeWithMihran/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CodeWithMihran/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -273,6 +277,7 @@ Date of Opening - 28th July 2025 (Before my college started)
 | [0095-unique-binary-search-trees-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/CodeWithMihran/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/CodeWithMihran/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CodeWithMihran/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
