@@ -261,6 +261,7 @@ Date of Opening - 28th July 2025 (Before my college started)
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/CodeWithMihran/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/CodeWithMihran/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -271,4 +272,9 @@ Date of Opening - 28th July 2025 (Before my college started)
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/CodeWithMihran/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/CodeWithMihran/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/CodeWithMihran/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 <!---LeetCode Topics End-->
