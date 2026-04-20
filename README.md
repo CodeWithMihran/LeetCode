@@ -254,6 +254,7 @@ Maintain consistency in daily practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CodeWithMihran/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/CodeWithMihran/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/CodeWithMihran/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 ## Depth-First Search
@@ -266,6 +267,7 @@ Maintain consistency in daily practice
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/CodeWithMihran/LeetCode/tree/main/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0092-reverse-linked-list-ii/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/CodeWithMihran/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -274,11 +276,13 @@ Maintain consistency in daily practice
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/CodeWithMihran/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CodeWithMihran/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/CodeWithMihran/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/CodeWithMihran/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/CodeWithMihran/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -287,6 +291,7 @@ Maintain consistency in daily practice
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/CodeWithMihran/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CodeWithMihran/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/CodeWithMihran/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
