@@ -147,6 +147,7 @@ Maintain consistency in daily practice
 | [0089-gray-code](https://github.com/CodeWithMihran/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/CodeWithMihran/LeetCode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0113-path-sum-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/CodeWithMihran/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -265,6 +266,7 @@ Maintain consistency in daily practice
 | [0079-word-search](https://github.com/CodeWithMihran/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/CodeWithMihran/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/CodeWithMihran/LeetCode/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/CodeWithMihran/LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -284,6 +286,7 @@ Maintain consistency in daily practice
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/CodeWithMihran/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/CodeWithMihran/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/CodeWithMihran/LeetCode/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -301,6 +304,7 @@ Maintain consistency in daily practice
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/CodeWithMihran/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/CodeWithMihran/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/CodeWithMihran/LeetCode/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
