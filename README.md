@@ -274,6 +274,7 @@ Maintain consistency in daily practice
 | [0111-minimum-depth-of-binary-tree](https://github.com/CodeWithMihran/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/CodeWithMihran/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/CodeWithMihran/LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -282,6 +283,7 @@ Maintain consistency in daily practice
 | [0086-partition-list](https://github.com/CodeWithMihran/LeetCode/tree/main/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/CodeWithMihran/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -294,6 +296,7 @@ Maintain consistency in daily practice
 | [0111-minimum-depth-of-binary-tree](https://github.com/CodeWithMihran/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/CodeWithMihran/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -312,6 +315,7 @@ Maintain consistency in daily practice
 | [0111-minimum-depth-of-binary-tree](https://github.com/CodeWithMihran/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/CodeWithMihran/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -319,6 +323,7 @@ Maintain consistency in daily practice
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/CodeWithMihran/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/CodeWithMihran/LeetCode/tree/main/0112-path-sum/) | Easy |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
