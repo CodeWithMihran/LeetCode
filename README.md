@@ -61,6 +61,7 @@ Maintain consistency in daily practice
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CodeWithMihran/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0120-triangle](https://github.com/CodeWithMihran/LeetCode/tree/main/0120-triangle/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/CodeWithMihran/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/CodeWithMihran/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/CodeWithMihran/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/CodeWithMihran/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/CodeWithMihran/LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -99,6 +100,7 @@ Maintain consistency in daily practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/CodeWithMihran/LeetCode/tree/main/0079-word-search/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/CodeWithMihran/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/CodeWithMihran/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/CodeWithMihran/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/CodeWithMihran/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -198,6 +200,7 @@ Maintain consistency in daily practice
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/CodeWithMihran/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/CodeWithMihran/LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/CodeWithMihran/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/CodeWithMihran/LeetCode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -282,6 +285,7 @@ Maintain consistency in daily practice
 | [0112-path-sum](https://github.com/CodeWithMihran/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/CodeWithMihran/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/CodeWithMihran/LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -331,6 +335,7 @@ Maintain consistency in daily practice
 | [0111-minimum-depth-of-binary-tree](https://github.com/CodeWithMihran/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/CodeWithMihran/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/CodeWithMihran/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
