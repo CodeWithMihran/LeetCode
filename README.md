@@ -61,6 +61,7 @@ Maintain consistency in daily practice
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CodeWithMihran/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0120-triangle](https://github.com/CodeWithMihran/LeetCode/tree/main/0120-triangle/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/CodeWithMihran/LeetCode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0396-rotate-function](https://github.com/CodeWithMihran/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/CodeWithMihran/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/CodeWithMihran/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/CodeWithMihran/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -137,6 +138,7 @@ Maintain consistency in daily practice
 | [0120-triangle](https://github.com/CodeWithMihran/LeetCode/tree/main/0120-triangle/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/CodeWithMihran/LeetCode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/CodeWithMihran/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0396-rotate-function](https://github.com/CodeWithMihran/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/CodeWithMihran/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/CodeWithMihran/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/CodeWithMihran/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -232,6 +234,7 @@ Maintain consistency in daily practice
 | ------- | ------- |
 | [0089-gray-code](https://github.com/CodeWithMihran/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/CodeWithMihran/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0396-rotate-function](https://github.com/CodeWithMihran/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [1622-fancy-sequence](https://github.com/CodeWithMihran/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/CodeWithMihran/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/CodeWithMihran/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
