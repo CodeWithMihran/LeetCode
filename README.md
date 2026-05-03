@@ -23,6 +23,7 @@ Maintain consistency in daily practice
 | [0097-interleaving-string](https://github.com/CodeWithMihran/LeetCode/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/CodeWithMihran/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0657-robot-return-to-origin](https://github.com/CodeWithMihran/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0796-rotate-string](https://github.com/CodeWithMihran/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/CodeWithMihran/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/CodeWithMihran/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/CodeWithMihran/LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -287,6 +288,7 @@ Maintain consistency in daily practice
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0796-rotate-string](https://github.com/CodeWithMihran/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/CodeWithMihran/LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
