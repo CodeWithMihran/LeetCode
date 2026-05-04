@@ -56,6 +56,7 @@ Maintain consistency in daily practice
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/CodeWithMihran/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0079-word-search](https://github.com/CodeWithMihran/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -106,6 +107,7 @@ Maintain consistency in daily practice
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/CodeWithMihran/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0079-word-search](https://github.com/CodeWithMihran/LeetCode/tree/main/0079-word-search/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/CodeWithMihran/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/CodeWithMihran/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -234,6 +236,7 @@ Maintain consistency in daily practice
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/CodeWithMihran/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0089-gray-code](https://github.com/CodeWithMihran/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/CodeWithMihran/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0396-rotate-function](https://github.com/CodeWithMihran/LeetCode/tree/main/0396-rotate-function/) | Medium |
