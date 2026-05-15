@@ -65,6 +65,7 @@ Maintain consistency in daily practice
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CodeWithMihran/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0120-triangle](https://github.com/CodeWithMihran/LeetCode/tree/main/0120-triangle/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/CodeWithMihran/LeetCode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/CodeWithMihran/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0396-rotate-function](https://github.com/CodeWithMihran/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/CodeWithMihran/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/CodeWithMihran/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -221,6 +222,7 @@ Maintain consistency in daily practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/CodeWithMihran/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/CodeWithMihran/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/CodeWithMihran/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/CodeWithMihran/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
