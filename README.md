@@ -97,6 +97,7 @@ Maintain consistency in daily practice
 | [2078-two-furthest-houses-with-different-colors](https://github.com/CodeWithMihran/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/CodeWithMihran/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/CodeWithMihran/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/CodeWithMihran/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/CodeWithMihran/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/CodeWithMihran/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/CodeWithMihran/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -207,6 +208,7 @@ Maintain consistency in daily practice
 | [1345-jump-game-iv](https://github.com/CodeWithMihran/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/CodeWithMihran/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/CodeWithMihran/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/CodeWithMihran/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/CodeWithMihran/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/CodeWithMihran/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/CodeWithMihran/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -421,6 +423,7 @@ Maintain consistency in daily practice
 | [0113-path-sum-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/CodeWithMihran/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [2196-create-binary-tree-from-descriptions](https://github.com/CodeWithMihran/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -441,6 +444,7 @@ Maintain consistency in daily practice
 | [0113-path-sum-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/CodeWithMihran/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [2196-create-binary-tree-from-descriptions](https://github.com/CodeWithMihran/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
