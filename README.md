@@ -323,6 +323,7 @@ Maintain consistency in daily practice
 | [0096-unique-binary-search-trees](https://github.com/CodeWithMihran/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0396-rotate-function](https://github.com/CodeWithMihran/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/CodeWithMihran/LeetCode/tree/main/0788-rotated-digits/) | Medium |
+| [1344-angle-between-hands-of-a-clock](https://github.com/CodeWithMihran/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1622-fancy-sequence](https://github.com/CodeWithMihran/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/CodeWithMihran/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/CodeWithMihran/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
