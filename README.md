@@ -60,6 +60,7 @@ Maintain consistency in daily practice
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/CodeWithMihran/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/CodeWithMihran/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -93,6 +94,7 @@ Maintain consistency in daily practice
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/CodeWithMihran/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0396-rotate-function](https://github.com/CodeWithMihran/LeetCode/tree/main/0396-rotate-function/) | Medium |
+| [0486-predict-the-winner](https://github.com/CodeWithMihran/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/CodeWithMihran/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/CodeWithMihran/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1260-shift-2d-grid](https://github.com/CodeWithMihran/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
@@ -231,6 +233,7 @@ Maintain consistency in daily practice
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/CodeWithMihran/LeetCode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/CodeWithMihran/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0396-rotate-function](https://github.com/CodeWithMihran/LeetCode/tree/main/0396-rotate-function/) | Medium |
+| [0486-predict-the-winner](https://github.com/CodeWithMihran/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0788-rotated-digits](https://github.com/CodeWithMihran/LeetCode/tree/main/0788-rotated-digits/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/CodeWithMihran/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/CodeWithMihran/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -407,6 +410,7 @@ Maintain consistency in daily practice
 | [0089-gray-code](https://github.com/CodeWithMihran/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/CodeWithMihran/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0396-rotate-function](https://github.com/CodeWithMihran/LeetCode/tree/main/0396-rotate-function/) | Medium |
+| [0486-predict-the-winner](https://github.com/CodeWithMihran/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/CodeWithMihran/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/CodeWithMihran/LeetCode/tree/main/0788-rotated-digits/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/CodeWithMihran/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
@@ -677,4 +681,8 @@ Maintain consistency in daily practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/CodeWithMihran/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/CodeWithMihran/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
