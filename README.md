@@ -218,6 +218,7 @@ Maintain consistency in daily practice
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/CodeWithMihran/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/CodeWithMihran/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/CodeWithMihran/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -379,6 +380,7 @@ Maintain consistency in daily practice
 | [3737-count-subarrays-with-majority-element-i](https://github.com/CodeWithMihran/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/CodeWithMihran/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
