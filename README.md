@@ -71,6 +71,7 @@ Maintain consistency in daily practice
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/CodeWithMihran/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/CodeWithMihran/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/CodeWithMihran/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -185,6 +186,7 @@ Maintain consistency in daily practice
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/CodeWithMihran/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/CodeWithMihran/LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/CodeWithMihran/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3483-unique-3-digit-even-numbers](https://github.com/CodeWithMihran/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/CodeWithMihran/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/CodeWithMihran/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -335,6 +337,7 @@ Maintain consistency in daily practice
 | [3120-count-the-number-of-special-characters-i](https://github.com/CodeWithMihran/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/CodeWithMihran/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3483-unique-3-digit-even-numbers](https://github.com/CodeWithMihran/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/CodeWithMihran/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/CodeWithMihran/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -611,6 +614,7 @@ Maintain consistency in daily practice
 | [1291-sequential-digits](https://github.com/CodeWithMihran/LeetCode/tree/main/1291-sequential-digits/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/CodeWithMihran/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/CodeWithMihran/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/CodeWithMihran/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/CodeWithMihran/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/CodeWithMihran/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
