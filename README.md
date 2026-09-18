@@ -29,6 +29,7 @@ Maintain consistency in daily practice
 | [1189-maximum-number-of-balloons](https://github.com/CodeWithMihran/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/CodeWithMihran/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/CodeWithMihran/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/CodeWithMihran/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/CodeWithMihran/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/CodeWithMihran/LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/CodeWithMihran/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -330,6 +331,7 @@ Maintain consistency in daily practice
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/CodeWithMihran/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/CodeWithMihran/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/CodeWithMihran/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/CodeWithMihran/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/CodeWithMihran/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/CodeWithMihran/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/CodeWithMihran/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -439,6 +441,7 @@ Maintain consistency in daily practice
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/CodeWithMihran/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/CodeWithMihran/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/CodeWithMihran/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/CodeWithMihran/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/CodeWithMihran/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/CodeWithMihran/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -578,6 +581,7 @@ Maintain consistency in daily practice
 | [1331-rank-transform-of-an-array](https://github.com/CodeWithMihran/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/CodeWithMihran/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/CodeWithMihran/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/CodeWithMihran/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/CodeWithMihran/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/CodeWithMihran/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/CodeWithMihran/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
