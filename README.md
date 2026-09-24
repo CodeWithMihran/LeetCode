@@ -204,6 +204,7 @@ Maintain consistency in daily practice
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/CodeWithMihran/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/CodeWithMihran/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/CodeWithMihran/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/CodeWithMihran/LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/CodeWithMihran/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -545,6 +546,7 @@ Maintain consistency in daily practice
 | [3524-find-x-value-of-array-i](https://github.com/CodeWithMihran/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/CodeWithMihran/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/CodeWithMihran/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/CodeWithMihran/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/CodeWithMihran/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
