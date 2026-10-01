@@ -16,6 +16,7 @@ Maintain consistency in daily practice
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/CodeWithMihran/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0079-word-search](https://github.com/CodeWithMihran/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0087-scramble-string](https://github.com/CodeWithMihran/LeetCode/tree/main/0087-scramble-string/) | Hard |
 | [0091-decode-ways](https://github.com/CodeWithMihran/LeetCode/tree/main/0091-decode-ways/) | Medium |
@@ -678,6 +679,7 @@ Maintain consistency in daily practice
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/CodeWithMihran/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/CodeWithMihran/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/CodeWithMihran/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -888,6 +890,7 @@ Maintain consistency in daily practice
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/CodeWithMihran/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/CodeWithMihran/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/CodeWithMihran/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/CodeWithMihran/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
