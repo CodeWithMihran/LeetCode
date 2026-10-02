@@ -1,29 +1,24 @@
 class Solution {
 public:
     vector<string> generateParenthesis(int n) {
+        if (n-- == 1) return {"()"};
+
         vector<string> res;
-        string path;
-        backtrack(res, path, 0, 0, n);
+        auto dfs = [&](auto& self, int O, int C, string s) -> void {
+            if (O == 0 && C == 0) {
+                res.push_back(s + ")");
+                return;
+            }
+
+            if (O > 0)
+                self(self, O - 1, C, s + "(");
+
+            if (C >= O)
+                self(self, O, C - 1, s + ")");
+        };
+
+        dfs(dfs, n, n, "(");
+
         return res;
-    }
-
-private:
-    void backtrack(vector<string>& res, string& path, int open, int close, int n) {
-        if ((int)path.size() == 2 * n) {
-            res.push_back(path);
-            return;
-        }
-
-        if (open < n) {
-            path.push_back('(');
-            backtrack(res, path, open + 1, close, n);
-            path.pop_back();
-        }
-
-        if (close < open) {
-            path.push_back(')');
-            backtrack(res, path, open, close + 1, n);
-            path.pop_back();
-        }
     }
 };
