@@ -17,6 +17,7 @@ Maintain consistency in daily practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/CodeWithMihran/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/CodeWithMihran/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0079-word-search](https://github.com/CodeWithMihran/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0087-scramble-string](https://github.com/CodeWithMihran/LeetCode/tree/main/0087-scramble-string/) | Hard |
 | [0091-decode-ways](https://github.com/CodeWithMihran/LeetCode/tree/main/0091-decode-ways/) | Medium |
@@ -278,6 +279,7 @@ Maintain consistency in daily practice
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/CodeWithMihran/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0087-scramble-string](https://github.com/CodeWithMihran/LeetCode/tree/main/0087-scramble-string/) | Hard |
 | [0091-decode-ways](https://github.com/CodeWithMihran/LeetCode/tree/main/0091-decode-ways/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
@@ -387,6 +389,7 @@ Maintain consistency in daily practice
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/CodeWithMihran/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0079-word-search](https://github.com/CodeWithMihran/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0089-gray-code](https://github.com/CodeWithMihran/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/CodeWithMihran/LeetCode/tree/main/0093-restore-ip-addresses/) | Medium |
@@ -891,6 +894,7 @@ Maintain consistency in daily practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/CodeWithMihran/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/CodeWithMihran/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/CodeWithMihran/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/CodeWithMihran/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/CodeWithMihran/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
