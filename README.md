@@ -25,6 +25,7 @@ Maintain consistency in daily practice
 | [0093-restore-ip-addresses](https://github.com/CodeWithMihran/LeetCode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0097-interleaving-string](https://github.com/CodeWithMihran/LeetCode/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/CodeWithMihran/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/CodeWithMihran/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0657-robot-return-to-origin](https://github.com/CodeWithMihran/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/CodeWithMihran/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/CodeWithMihran/LeetCode/tree/main/0796-rotate-string/) | Easy |
@@ -401,6 +402,7 @@ Maintain consistency in daily practice
 | [0093-restore-ip-addresses](https://github.com/CodeWithMihran/LeetCode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/CodeWithMihran/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/CodeWithMihran/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -786,6 +788,7 @@ Maintain consistency in daily practice
 | [0111-minimum-depth-of-binary-tree](https://github.com/CodeWithMihran/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/CodeWithMihran/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/CodeWithMihran/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1306-jump-game-iii](https://github.com/CodeWithMihran/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/CodeWithMihran/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
