@@ -40,6 +40,7 @@ Maintain consistency in daily practice
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/CodeWithMihran/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/CodeWithMihran/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/CodeWithMihran/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/CodeWithMihran/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/CodeWithMihran/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/CodeWithMihran/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/CodeWithMihran/LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -479,6 +480,7 @@ Maintain consistency in daily practice
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/CodeWithMihran/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/CodeWithMihran/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/CodeWithMihran/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/CodeWithMihran/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/CodeWithMihran/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/CodeWithMihran/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/CodeWithMihran/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -702,6 +704,7 @@ Maintain consistency in daily practice
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/CodeWithMihran/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/CodeWithMihran/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/CodeWithMihran/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/CodeWithMihran/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/CodeWithMihran/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/CodeWithMihran/LeetCode/tree/main/2751-robot-collisions/) | Hard |
@@ -918,6 +921,7 @@ Maintain consistency in daily practice
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/CodeWithMihran/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/CodeWithMihran/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/CodeWithMihran/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/CodeWithMihran/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/CodeWithMihran/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/CodeWithMihran/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
