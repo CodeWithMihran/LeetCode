@@ -237,6 +237,7 @@ Maintain consistency in daily practice
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/CodeWithMihran/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/CodeWithMihran/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/CodeWithMihran/LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/CodeWithMihran/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/CodeWithMihran/LeetCode/tree/main/3660-jump-game-ix/) | Medium |
@@ -465,6 +466,7 @@ Maintain consistency in daily practice
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/CodeWithMihran/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/CodeWithMihran/LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/CodeWithMihran/LeetCode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
