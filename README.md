@@ -150,6 +150,7 @@ Maintain consistency in daily practice
 | [1331-rank-transform-of-an-array](https://github.com/CodeWithMihran/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/CodeWithMihran/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/CodeWithMihran/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
+| [1352-product-of-the-last-k-numbers](https://github.com/CodeWithMihran/LeetCode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/CodeWithMihran/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/CodeWithMihran/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/CodeWithMihran/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -481,6 +482,7 @@ Maintain consistency in daily practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/CodeWithMihran/LeetCode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/CodeWithMihran/LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/CodeWithMihran/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/CodeWithMihran/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -637,6 +639,7 @@ Maintain consistency in daily practice
 | [0877-stone-game](https://github.com/CodeWithMihran/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/CodeWithMihran/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/CodeWithMihran/LeetCode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/CodeWithMihran/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/CodeWithMihran/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/CodeWithMihran/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
@@ -709,6 +712,7 @@ Maintain consistency in daily practice
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/CodeWithMihran/LeetCode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1622-fancy-sequence](https://github.com/CodeWithMihran/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 | [2069-walking-robot-simulation-ii](https://github.com/CodeWithMihran/LeetCode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Segment Tree
@@ -1089,4 +1093,8 @@ Maintain consistency in daily practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/CodeWithMihran/LeetCode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/CodeWithMihran/LeetCode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
